@@ -1,15 +1,26 @@
-BucheFetch
-______
-BucheFetch Is an Command line alternative to Neofetch But still maintaining the aesthetic feel. Of Neofetch itself
+# BucheFetch
 
+BucheFetch is a command-line alternative to Neofetch while maintaining its aesthetic appeal.
 
-SUPPORTED PLATFORMS
-_____________
-ALL UNIX AND LINUX BASED OSES
+---
 
+## Supported Platforms
 
-INSTALLATION 
-_____________
-:run "chmod +x BUCHEFETCH.sh"<br>
-:set this in your zshrc or bashrc:"alias buchefetch=~/<pathtoinstalltion>/BUCHEFETCH.sh"
-:run this "mv <pathtoinstallation>/dogna.txt to ~/dogna.txt
+- All UNIX and Linux-based operating systems
+
+---
+
+## Installation
+
+### 1. Make the script executable
+
+Run the following command to make `BUCHEFETCH.sh` executable:
+
+```bash
+chmod +x BUCHEFETCH.sh
+
+alias buchefetch=~/<path_to_installation>/BUCHEFETCH.sh
+
+buchefetch
+```
+Under MIT license
