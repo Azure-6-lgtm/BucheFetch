@@ -1,0 +1,2 @@
+{ASCII art here} 
+#put this file in home directory 
