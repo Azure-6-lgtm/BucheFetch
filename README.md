@@ -18,9 +18,17 @@ Run the following command to make `BUCHEFETCH.sh` executable:
 
 ```bash
 chmod +x BUCHEFETCH.sh
+```
+### 2.Set this alias in your shell config 
+```bash
+alias 
+buchefetch=~/<path_to_installation>/BUCH
+EFETCH.sh
+```
+## 3.Now you can run buchefetch easily
 
-alias buchefetch=~/<path_to_installation>/BUCHEFETCH.sh
 
+```bash
 buchefetch
 ```
 Under MIT license
