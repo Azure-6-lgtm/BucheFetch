@@ -32,3 +32,5 @@ EFETCH.sh
 buchefetch
 ```
 Under MIT license
+
+##You can use the c file if you really want to flex on others
